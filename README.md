@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Deniz 👋
 ---
 
 📫 How to reach me: [Here](https://gravatar.com/denizuelker)
