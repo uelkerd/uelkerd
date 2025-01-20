@@ -1,4 +1,8 @@
 ## Hi there 👋
+---
+
+📫 How to reach me: [Here](https://gravatar.com/denizuelker)
+
 
 <!--
 **0x-duelker/0x-duelker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
