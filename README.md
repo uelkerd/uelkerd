@@ -1,6 +1,6 @@
 ## Hey, I'm Deniz 👋
 ---
-- 🔭 I’m currently working at [MBition](https://mbition.io/)'s internal aiFeeder project
+- 🔭 I’m currently working on contributions to [MBition](https://mbition.io/)'s internal aiFeeder project
 - 🌱 I’m currently learning/going thru [freeCodeCamp's certification paths](https://github.com/uelkerd/fCC)
 - 📫 How to reach me: [Here](https://gravatar.com/denizuelker)
 
