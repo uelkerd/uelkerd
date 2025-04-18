@@ -5,7 +5,7 @@
 
 
 
-## Tech stack
+#### Tech stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -19,7 +19,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 
-## Stats
+#### Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=uelkerd&show_icons=true&theme=tokyonight" alt="Uelkerd's GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uelkerd&layout=compact&theme=tokyonight" alt="Uelkerd's Most Used Languages" height="170" />
@@ -30,7 +30,7 @@
   
   <br />
   
-## Connect
+#### Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/duelker)
 
