@@ -1,6 +1,6 @@
 ## Hey, I'm Deniz 👋
 ---
-- 🔭 Working on contributions to [MBition](https://mbition.io/)'s internal aiFeeder project
+- 🔭 Working on contributions to [MBition](https://mbition.io/)'s internal aiFeeder project a web application that integrates AI in Requirements Engineering.
 - 🌱 Currently learning [freeCodeCamp's certification paths](https://github.com/uelkerd/fCC)
 
 
