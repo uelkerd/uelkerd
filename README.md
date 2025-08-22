@@ -1,8 +1,14 @@
 ## Hey, I'm Deniz 👋
 ---
 
-- 🌱 Currently learning [freeCodeCamp's certification paths](https://github.com/uelkerd/fCC)
+- 🌱 Currently learning with [freeCodeCamp's certification paths](https://github.com/uelkerd/fCC)
 and [TechLabs Berlin' Deep Learning track](https://www.techlabs.org/ai-and-deep-learning)
+- 🔭 Working on [SAMO](https://github.com/uelkerd/SAMO--DL) as the sole Deep Learning Engineer - An AI-powered, voice-first journaling companion providing real emotional reflection through advanced emotion detection and natural language understanding:
+  * Independently managed complete ML lifecycle from dataset analysis and model experimentation in Google Colab to production deployment on cloud infrastructure.
+  * Unified pipeline processing voice, text, and emotional data with seamless model chaining for complex NLP tasks.
+  * Production-grade emotion detection using fine-tuned DistilRoBERTa (90.70% accuracy) + T5 summarization + OpenAI Whisper voice processing in unified pipeline achieving <500ms end-to-end latency.
+  * Deployed scalable MLOps infrastructure on GCP with Docker microservices, Prometheus monitoring, automated testing, and ONNX optimization (2.3x speedup, 75% model compression).
+    
 
 
 #### Tech stack
